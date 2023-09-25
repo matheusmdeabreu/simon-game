@@ -1,6 +1,8 @@
 # simon-game
 *my own version of simon game, using html, css and js*
 
+https://matheusmdeabreu.github.io/simon-game/
+
 Start the Game: Press any key on your keyboard to begin the game.
 
 Color Sequence: The game will start with a sequence of colors, which will be displayed through flashes and sounds.
